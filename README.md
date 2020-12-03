@@ -12,7 +12,6 @@ The Backend:
 2. Ensure that the OrientDB server is up and running on `http://10.0.0.55:2480/studio/index.html`
 3. `cd backend` and go to file `TestingApplication.java` and run it to start the backend SpringBoot server on `localhost:8080`
 4. If successful, you should be able to open a browser and type `localhost:8080/country/IN` and get some JSON data
-
 The Frontend:
 5. `cd frontend` and type `npm i` to install all dependencies.
 6. type `npm start` to start the frontend server locally on `localhost:3000`
